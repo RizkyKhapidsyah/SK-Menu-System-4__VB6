@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=StandardMenu_ObjectsAPI.vbp
+StartupProject=Test\Project_Tst.vbp
